@@ -349,7 +349,8 @@ h6 {
 @media (max-width: 992px) {
   #hero {
     text-align: center;
-    background: url("../img/profile-img.jpg") top right no-repeat;
+    background: url("../img/profile_office.jpg") top right no-repeat;
+    background-size: cover;
   }
 
   #hero h1 {
